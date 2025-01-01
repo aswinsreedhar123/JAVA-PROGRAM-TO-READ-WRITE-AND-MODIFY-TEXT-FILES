@@ -20,3 +20,6 @@ Mentor : NEELA SANTHOSH
 ###Key Features: BufferedReader: Used to read characters from a file efficiently, one line at a time. 
 BufferedWriter: Used to write characters to a file efficiently, including the ability to append data by enabling true in the FileWriter constructor.
 FileWriter: A convenient class for writing characters to files.
+
+output of Task: ![task1 output](https://github.com/user-attachments/assets/b87e42ca-f6fd-4815-8545-52950893f75a)
+                ![task1_output](https://github.com/user-attachments/assets/bcf4affb-b15d-40cd-a427-096bace087e5)
